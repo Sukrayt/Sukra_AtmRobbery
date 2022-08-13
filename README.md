@@ -5,6 +5,7 @@ Join my Discord for Support:
 https://discord.gg/KKpBjC6dEq
 
 Dependencies:
+
 https://github.com/utkuali/datacrack
 
 https://github.com/Nathan-FiveM/memorygame_2
