@@ -60,5 +60,22 @@ Translation = {         --Add more under en if you want to Translate the Script
         ['recently_robbed'] = 'Dieser Geldautomat wurde gerade erst ausgeraubt und enthält kein Geld, komme später wieder',
         ['robbery_silent_failure'] = 'Der Hack war nicht erfolgreich',
         ['police_notify'] = 'Ein Geldautomat wird gerade ausgeraubt, die Position ist auf deinem Navi markiert'
+    },
+	['es'] = {
+        ['Robbery_menu_header'] = 'Robo de ATM',
+        ['Robbery_menu_desc'] = 'Hay 2 Maneras de Robar un ATM, si lo haces de forma silenciosa la Policía podría no ser alertada',
+        ['Robbery_menu_loud'] = '~r~Explotar el ATM',
+        ['Robbery_menu_loud_desc'] = 'Explotar el ATM resultará en que obtengas más dinero, sin embargo, atraerá la atención',
+        ['Robbery_menu_silent'] = 'Hackear el ATM',
+        ['Robbery_menu_silent_desc'] = 'Hackear el ATM resultará en recibir menos dinero, sin embargo, hay una oportunidad de que la Policía no sea notificada',
+        ['Rob_ATM'] = 'Presiona ~g~G~s~ para Robar el ATM',
+        ['Robbery_loud_progressbar'] = 'Derritiendo la Cerradura...',
+        ['robbery_succesfull'] = 'Completaste el Robo satisfactoriamente',
+        ['robbery_loud_failure'] = 'La Termita no explotó',
+        ['thermite_ticking'] = 'La Termita va a explotar...',
+        ['recently_robbed'] = 'Este ATM ya fue robado y no queda más Dinero en él, vuelve después',
+        ['robbery_silent_failure'] = 'Fallaste el Hackeo',
+        ['police_notify'] = 'Un ATM está siendo robado en este momento, la posición ha sido anotada en tu GPS'
+
     }
 }
